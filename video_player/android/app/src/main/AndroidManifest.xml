@@ -2,6 +2,7 @@
     package="com.example.inspiration_show">
    <application
         android:label="inspiration_show"
+        android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
